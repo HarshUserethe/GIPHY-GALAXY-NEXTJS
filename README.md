@@ -38,12 +38,6 @@ At AlphaBI, we are at the forefront of the digital revolution, empowering busine
 - Pagination Functionality: Implemented pagination to manage and display GIFs in manageable chunks, ensuring smooth browsing and reducing loading times.
 
 - Default Display of Trending GIFs: Set the initial display to showcase trending GIFs, providing users with engaging and up-to-date content upon entering the site.
+- 
 ## Demo Link
 https://giphy-galaxy-nextjs.vercel.app/
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
