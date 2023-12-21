@@ -41,3 +41,6 @@ At AlphaBI, we are at the forefront of the digital revolution, empowering busine
 - 
 ## Demo Link
 https://giphy-galaxy-nextjs.vercel.app/
+
+## To-Do
+- Loader: Loading while searching and authenticating.
